@@ -6,7 +6,7 @@ from discord.ext import commands
 from discord.utils import get
 from itertools import cycle
 
-TOKEN = "NTIwMjYyNDA0ODU3MTM1MTM1.DurUAg.1dMtbFDcctrN6q20sAgroegoe9A"
+TOKEN = ""
 
 bot = commands.Bot(command_prefix="!")
 bot.remove_command("help")

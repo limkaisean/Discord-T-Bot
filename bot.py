@@ -13,7 +13,7 @@ bot.remove_command("help")
 status = ["alone", "Mobile Legends", "herself", "PUBG", "Fortnite"]
 players = {}
 reddit = praw.Reddit(client_id='SGXSym_4G8Y2DQ',
-                     client_secret='j4NPUfG0TmHJM-9YDPL5IHXuzXM',
+                     client_secret='',
                      user_agent='nabbot')
 
 

@@ -12,7 +12,7 @@ bot = commands.Bot(command_prefix="!")
 bot.remove_command("help")
 status = ["alone", "Mobile Legends", "herself", "PUBG", "Fortnite"]
 players = {}
-reddit = praw.Reddit(client_id='SGXSym_4G8Y2DQ',
+reddit = praw.Reddit(client_id='',
                      client_secret='',
                      user_agent='nabbot')
 
